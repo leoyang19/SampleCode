@@ -1,0 +1,1 @@
+In workout01, I considered different ways to rank the NBA teams. From simple rankings based on a given observed variable, to rankings based on derived indicies like efficiency (i.e. EFF) or any other composite index. 
